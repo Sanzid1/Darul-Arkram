@@ -1,0 +1,1677 @@
+# Copyright (C) 2025 revolutionwp
+# This file is distributed under the GNU General Prefer License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Digital Magazine 1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/digital-magazine\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-03-31T13:14:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: digital-magazine\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Digital Magazine"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.revolutionwp.com/products/free-magazine-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The Digital Magazine WordPress Theme is a dynamic and feature-rich solution designed for online magazines, blogs, and digital publications across various niches. Whether you're managing a news magazine, fashion magazine, travel magazine, or a tech publication, this theme provides a sleek, modern, and fully responsive layout to engage readers. It is built with SEO optimization and fast-loading speed to ensure maximum visibility and smooth performance. This theme caters to a wide range of industries, from business magazines and entertainment magazines to lifestyle and photography magazines. With a flexible and user-friendly design, it allows content creators to present articles, images, and videos in a visually compelling format. The theme includes customizable homepage layouts, featured article sections, and interactive categories to help organize content effectively. The Digital Magazine WordPress Theme enhances user engagement with social media integration, ad-friendly placements, and multimedia support for videos, podcasts, and live updates. Designed for digital journalism and online storytelling, it ensures that your articles look professional on all devices, including smartphones, tablets, and desktops. The theme offers easy-to-use page builders, typography settings, and custom widgets, allowing you to personalize your site effortlessly. Whether you are publishing finance magazines, art magazines, sports magazines, or opinion magazines, this theme provides a seamless experience for both publishers and readers."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "revolutionwp"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.revolutionwp.com/"
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:25
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: demo-import/digital_magazine_config_file.php:35
+msgid "Welcome to "
+msgstr ""
+
+#: demo-import/digital_magazine_config_file.php:37
+msgid "System Status"
+msgstr ""
+
+#: demo-import/digital_magazine_config_file.php:43
+#: demo-import/importer.php:261
+msgid "Plugins"
+msgstr ""
+
+#: demo-import/digital_magazine_config_file.php:45
+#: demo-import/importer.php:265
+#: demo-import/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: demo-import/digital_magazine_config_file.php:50
+msgid "Demo Importer"
+msgstr ""
+
+#: demo-import/digital_magazine_config_file.php:52
+msgid "Click On The Image To Import Customizer Demo"
+msgstr ""
+
+#: demo-import/digital_magazine_config_file.php:53
+msgid "Click On The Image To Import Gutenberg Block Demo"
+msgstr ""
+
+#: demo-import/digital_magazine_config_file.php:58
+#: demo-import/importer.php:282
+msgid "All Done"
+msgstr ""
+
+#: demo-import/importer.php:271
+msgid "Customizer"
+msgstr ""
+
+#: demo-import/importer.php:275
+msgid "Import Demo"
+msgstr ""
+
+#: demo-import/importer.php:315
+msgid "Thank you for choosing this Digital Magazine Theme. Using this quick setup wizard, you will be able to configure your new website and get it running in just a few minutes. Just follow these simple steps mentioned in the wizard and get started with your website."
+msgstr ""
+
+#: demo-import/importer.php:329
+msgid "Install Recommended Plugins:\t"
+msgstr ""
+
+#: demo-import/importer.php:349
+msgid "This theme allows you to import demo content and add widgets. Install them using the button below. You can also update or deactivate them using the Customizer."
+msgstr ""
+
+#: demo-import/importer.php:362
+#: getstarted/getstarted.php:5
+msgid "About Digital Magazine"
+msgstr ""
+
+#: demo-import/importer.php:363
+#: demo-import/importer.php:364
+msgid "Customize Your Demo"
+msgstr ""
+
+#: demo-import/importer.php:365
+msgid "Visit Your Site"
+msgstr ""
+
+#: demo-import/importer.php:368
+msgid "Finish"
+msgstr ""
+
+#: demo-import/importer.php:406
+msgid "No Slug Found"
+msgstr ""
+
+#: demo-import/importer.php:423
+msgid "Activating Plugin"
+msgstr ""
+
+#: demo-import/importer.php:438
+msgid "Updating Plugin"
+msgstr ""
+
+#: demo-import/importer.php:453
+msgid "Installing Plugin"
+msgstr ""
+
+#: demo-import/importer.php:462
+msgid "Success"
+msgstr ""
+
+#: demo-import/importer.php:482
+msgid "Home"
+msgstr ""
+
+#: demo-import/importer.php:492
+msgid "About"
+msgstr ""
+
+#: demo-import/importer.php:503
+msgid "Services"
+msgstr ""
+
+#: demo-import/importer.php:514
+msgid "Blog"
+msgstr ""
+
+#: demo-import/importer.php:525
+msgid "Contact Us"
+msgstr ""
+
+#: demo-import/importer.php:552
+msgid "Facebook"
+msgstr ""
+
+#: demo-import/importer.php:558
+msgid "Pinterest"
+msgstr ""
+
+#: demo-import/importer.php:564
+msgid "Twitter"
+msgstr ""
+
+#: demo-import/importer.php:570
+msgid "Youtube"
+msgstr ""
+
+#: demo-import/importer.php:576
+msgid "Instagram"
+msgstr ""
+
+#: demo-import/importer.php:891
+msgid "Welcome to Digital Magazine"
+msgstr ""
+
+#: demo-import/importer.php:892
+msgid "The quick setup wizard will assist you in configuring your new website. This wizard will import the demo content."
+msgstr ""
+
+#: demo-import/importer.php:895
+msgid "Go Premium Now"
+msgstr ""
+
+#: demo-import/plugin-activation.php:32
+msgid "Installing"
+msgstr ""
+
+#: demo-import/plugin-activation.php:33
+msgid "Activating"
+msgstr ""
+
+#: demo-import/plugin-activation.php:34
+msgid "Error"
+msgstr ""
+
+#. translators: 1: Plugin Name.
+#: demo-import/plugin-activation.php:106
+msgid "Install %s Now"
+msgstr ""
+
+#: demo-import/plugin-activation.php:108
+msgid "Install & Activate"
+msgstr ""
+
+#. translators: 1: Plugin Name.
+#: demo-import/plugin-activation.php:126
+msgid "Activate %s Now"
+msgstr ""
+
+#: demo-import/plugin-activation.php:128
+#: demo-import/tgm/class-tgm-plugin-activation.php:2722
+msgid "Activate"
+msgstr ""
+
+#: demo-import/plugin-activation.php:131
+#: demo-import/tgm/class-tgm-plugin-activation.php:2317
+msgid "Active"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: demo-import/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: demo-import/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: demo-import/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: demo-import/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: demo-import/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: demo-import/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:386
+#: demo-import/tgm/class-tgm-plugin-activation.php:823
+#: demo-import/tgm/class-tgm-plugin-activation.php:2529
+#: demo-import/tgm/class-tgm-plugin-activation.php:3576
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:387
+#: demo-import/tgm/class-tgm-plugin-activation.php:3155
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:388
+#: demo-import/tgm/class-tgm-plugin-activation.php:2948
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: demo-import/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:930
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:930
+#: demo-import/tgm/class-tgm-plugin-activation.php:933
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:933
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:1117
+#: demo-import/tgm/class-tgm-plugin-activation.php:2944
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: demo-import/tgm/class-tgm-plugin-activation.php:1978
+msgid "TGMPA v%s"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2269
+msgid "Required"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2272
+msgid "Recommended"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2288
+msgid "WordPress Repository"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2291
+msgid "External Source"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2294
+msgid "Pre-Packaged"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2311
+msgid "Not Installed"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2315
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2323
+msgid "Required Update not Available"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2326
+msgid "Requires Update"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2329
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: demo-import/tgm/class-tgm-plugin-activation.php:2338
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: demo-import/tgm/class-tgm-plugin-activation.php:2384
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: demo-import/tgm/class-tgm-plugin-activation.php:2388
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: demo-import/tgm/class-tgm-plugin-activation.php:2392
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: demo-import/tgm/class-tgm-plugin-activation.php:2396
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2478
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2486
+msgid "Installed version:"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2494
+msgid "Minimum required version:"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2506
+msgid "Available version:"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2529
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2543
+msgid "Plugin"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2544
+msgid "Source"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2545
+msgid "Type"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2549
+msgid "Version"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2550
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: demo-import/tgm/class-tgm-plugin-activation.php:2599
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: demo-import/tgm/class-tgm-plugin-activation.php:2604
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: demo-import/tgm/class-tgm-plugin-activation.php:2610
+msgid "Activate %2$s"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2680
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2713
+msgid "Install"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2719
+msgid "Update"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2904
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2930
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:3154
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3494
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3497
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3499
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3505
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3505
+#: demo-import/tgm/class-tgm-plugin-activation.php:3513
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3505
+#: demo-import/tgm/class-tgm-plugin-activation.php:3513
+msgid "Hide Details"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:3506
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3508
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:3511
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3513
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:3514
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3516
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: demo-import/tgm/tgm.php:9
+msgid "Woocommerce"
+msgstr ""
+
+#: footer.php:54
+#: page.php:40
+#: page.php:92
+#: sidebar.php:18
+msgid "Search"
+msgstr ""
+
+#: footer.php:58
+msgid "Tags"
+msgstr ""
+
+#: footer.php:72
+msgid "No tags available. Add some tags to display here."
+msgstr ""
+
+#: footer.php:78
+#: page.php:64
+#: page.php:116
+#: sidebar.php:42
+msgid "Archives"
+msgstr ""
+
+#: footer.php:105
+msgid "Digital Magazine WordPress Theme By Revolution WP"
+msgstr ""
+
+#: functions.php:24
+msgid "Primary"
+msgstr ""
+
+#: functions.php:25
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:95
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:97
+#: functions.php:109
+#: functions.php:121
+#: functions.php:133
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:107
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:119
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:131
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:225
+msgid "Related Post"
+msgstr ""
+
+#: functions.php:456
+msgid "Hey, Thank you for installing Digital Magazine Theme!"
+msgstr ""
+
+#: functions.php:456
+msgid "Click Here for more Details"
+msgstr ""
+
+#: functions.php:457
+msgid "Dismiss"
+msgstr ""
+
+#: functions.php:484
+msgid "https://wordpress.org/support/theme/digital-magazine/"
+msgstr ""
+
+#: functions.php:485
+msgid "https://www.revolutionwp.com/pages/community"
+msgstr ""
+
+#: functions.php:486
+msgid "https://wordpress.org/support/theme/digital-magazine/reviews/"
+msgstr ""
+
+#: functions.php:487
+msgid "https://www.revolutionwp.com/products/digital-magazine-wordpress-theme"
+msgstr ""
+
+#: functions.php:488
+msgid "https://demo.revolutionwp.com/digital-magazine-pro/"
+msgstr ""
+
+#: functions.php:489
+msgid "https://demo.revolutionwp.com/wpdocs/digital-magazine-pro/"
+msgstr ""
+
+#: functions.php:490
+msgid "https://demo.revolutionwp.com/wpdocs/digital-magazine-free/"
+msgstr ""
+
+#. translators: 1: Theme Name.
+#: getstarted/digital_magazine_about_page.php:47
+#: getstarted/digital_magazine_about_page.php:48
+msgid "About %1$s"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:57
+msgid "Getting Started"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:58
+msgid "Free VS Pro"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:59
+msgid "Changelog"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:60
+msgid "Support"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:61
+msgid "Rate & Review"
+msgstr ""
+
+#. translators: 1: Theme Name.
+#: getstarted/digital_magazine_about_page.php:72
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:79
+#: getstarted/digital_magazine_about_page.php:401
+msgid "Buy Pro Theme"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:80
+msgid "Preview Pro Version"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:172
+msgid "Theme screenshot"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:179
+#: getstarted/digital_magazine_about_page.php:226
+#: getstarted/getstarted.php:100
+msgid "One Click Demo Import"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:180
+msgid "Easily set up your website with our One Click Demo Import feature. This functionality allows you to replicate our demo site with just a single click, ensuring you have a fully functional layout to start from. Whether you’re a beginner or an experienced developer, this tool simplifies the setup process, saving you time and effort."
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:181
+msgid "Click Here For Demo Import"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:185
+#: getstarted/getstarted.php:30
+msgid "Documentation"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:186
+msgid "Need more details? Check our comprehensive documentation for step-by-step guidance on using the Digital Magazine Theme."
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:187
+msgid "Go to Free Docs"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:191
+msgid "Preview Pro Theme"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:192
+msgid "Discover the full potential of our Pro Theme! Click the Live Demo button to experience premium features and beautiful designs."
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:193
+msgid "Live Demo"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:197
+msgid "Buy Digital Magazine Pro"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:198
+msgid "Unlock unlimited features and enhancements by purchasing the Pro version of Digital Magazine Theme."
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:199
+msgid "Buy Pro Version @$39"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:203
+msgid "Get the Bundle"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:204
+msgid "The WordPress Theme Bundle is a comprehensive collection of 30+ premium themes, offering everything you need to create stunning, professional websites with ease."
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:205
+msgid "Get Bundle"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:218
+#: getstarted/getstarted.php:68
+msgid "Features"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:219
+msgid "Free theme"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:220
+msgid "Pro Theme"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:230
+msgid "After the activation of Digital Magazine theme, all settings will be imported and Data Import."
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:242
+#: getstarted/getstarted.php:82
+msgid "Responsive Design"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:252
+msgid "Site Logo upload"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:262
+msgid "Footer Copyright text"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:266
+msgid "Remove the copyright text from the Footer."
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:278
+msgid "Global Color"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:288
+msgid "Regular Bug Fixes"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:298
+msgid "Theme Sections"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:301
+msgid "2 Sections"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:302
+msgid "15+ Sections"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:308
+msgid "Custom colors"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:312
+msgid "Choose a color for links, buttons, icons and so on."
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:324
+msgid "Google fonts"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:328
+msgid "You can choose and use over 600 different fonts, for the logo, the menu and the titles."
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:340
+msgid "Enhanced Plugin Integration"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:350
+msgid "Fully SEO Optimized"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:360
+msgid "Premium Support"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:370
+msgid "Extensive Customization"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:380
+msgid "Custom Post Types"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:390
+msgid "High-Level Compatibility with Modern Browsers"
+msgstr ""
+
+#: getstarted/digital_magazine_about_page.php:399
+msgid "Try Out Our Premium Version"
+msgstr ""
+
+#: getstarted/digital_magazine_changelog.php:29
+msgid "No changelog available."
+msgstr ""
+
+#: getstarted/getstarted.php:26
+msgid "Digital Magazine!"
+msgstr ""
+
+#: getstarted/getstarted.php:29
+#: getstarted/getstarted.php:171
+msgid "Get Digital Magazine Pro"
+msgstr ""
+
+#: getstarted/getstarted.php:34
+msgid "More About Digital Magazine"
+msgstr ""
+
+#: getstarted/getstarted.php:39
+msgid "Essential Links"
+msgstr ""
+
+#: getstarted/getstarted.php:40
+msgid "Lite Vs Premium"
+msgstr ""
+
+#: getstarted/getstarted.php:44
+msgid "Editing Homepage"
+msgstr ""
+
+#: getstarted/getstarted.php:45
+msgid "Go to Apearance > Customizer > Digital Magazine Theme Options edit our lite version"
+msgstr ""
+
+#: getstarted/getstarted.php:47
+msgid "Go to Customizer"
+msgstr ""
+
+#: getstarted/getstarted.php:50
+msgid "Demo for Digital Magazine (Premium) "
+msgstr ""
+
+#: getstarted/getstarted.php:51
+msgid "Check out the amazing Digital Magazine premium version demo."
+msgstr ""
+
+#: getstarted/getstarted.php:52
+msgid "View Demo"
+msgstr ""
+
+#: getstarted/getstarted.php:55
+msgid "Our Lite Theme Documentation"
+msgstr ""
+
+#: getstarted/getstarted.php:56
+#: getstarted/getstarted.php:61
+msgid "Take a look at our guides and start customizing themes with ease. With the help of our documentation, which offers insightful information on every facet of theme functioning, you can confidently build a website that realizes your idea."
+msgstr ""
+
+#: getstarted/getstarted.php:57
+msgid "View Documentation"
+msgstr ""
+
+#: getstarted/getstarted.php:60
+msgid "Support Ticket"
+msgstr ""
+
+#: getstarted/getstarted.php:62
+msgid "Contact Support"
+msgstr ""
+
+#: getstarted/getstarted.php:69
+msgid "Free Version"
+msgstr ""
+
+#: getstarted/getstarted.php:70
+msgid "Premium Version"
+msgstr ""
+
+#: getstarted/getstarted.php:73
+msgid "Priority Support"
+msgstr ""
+
+#: getstarted/getstarted.php:91
+msgid "Easy Setup"
+msgstr ""
+
+#: getstarted/getstarted.php:109
+msgid "SEO Optimized"
+msgstr ""
+
+#: getstarted/getstarted.php:118
+msgid "Cross Browser Compatible"
+msgstr ""
+
+#: getstarted/getstarted.php:127
+msgid "Translation Ready"
+msgstr ""
+
+#: getstarted/getstarted.php:136
+msgid "Change Footer Copyright"
+msgstr ""
+
+#: getstarted/getstarted.php:145
+msgid "Better Homepage Design"
+msgstr ""
+
+#: getstarted/getstarted.php:154
+msgid "Banner Image Slider"
+msgstr ""
+
+#: getstarted/getstarted.php:169
+msgid "Checkout Digital Magazine Premium Version"
+msgstr ""
+
+#: getstarted/getstarted.php:170
+msgid "Digital Magazine Premium version comes with lot more features and better designs. Also We provide priority support to Premium version users."
+msgstr ""
+
+#: getstarted/getstarted.php:174
+msgid "Admire the Digital Magazine Theme?"
+msgstr ""
+
+#: getstarted/getstarted.php:175
+msgid "Give us your support by leaving a 5-star review; it only takes a few minutes. It will be of great assistance to us."
+msgstr ""
+
+#: getstarted/getstarted.php:176
+msgid "Add a Review"
+msgstr ""
+
+#: header.php:20
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:128
+msgid "Primary Menu"
+msgstr ""
+
+#: page.php:44
+#: page.php:96
+#: sidebar.php:22
+msgid "Categories"
+msgstr ""
+
+#: page.php:54
+#: page.php:106
+#: sidebar.php:32
+msgid "Pages"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr ""
+
+#: revolution/inc/customizer.php:36
+msgid "Digital Magazine Theme Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:56
+msgid "Enable Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:57
+msgid "Enable or Disable Title from the site"
+msgstr ""
+
+#: revolution/inc/customizer.php:76
+msgid "Enable Tagline"
+msgstr ""
+
+#: revolution/inc/customizer.php:77
+msgid "Enable or Disable Tagline from the site"
+msgstr ""
+
+#: revolution/inc/customizer.php:96
+msgid "Logo Width in PX"
+msgstr ""
+
+#: revolution/inc/customizer.php:113
+msgid "WooCommerce Custom Settings"
+msgstr ""
+
+#: revolution/inc/customizer.php:130
+msgid "Product Per Single Row"
+msgstr ""
+
+#: revolution/inc/customizer.php:154
+msgid "Product Per One Page"
+msgstr ""
+
+#: revolution/inc/customizer.php:179
+msgid "Enable Related Product"
+msgstr ""
+
+#: revolution/inc/customizer.php:180
+msgid "Checked to show Related Product"
+msgstr ""
+
+#: revolution/inc/customizer.php:199
+msgid "Related Product Count"
+msgstr ""
+
+#: revolution/inc/customizer.php:223
+msgid "Related Product Per Row"
+msgstr ""
+
+#: revolution/inc/customizer.php:241
+msgid "Archive Product Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:244
+#: revolution/inc/customizer.php:259
+#: revolution/inc/customizer.php:342
+#: revolution/inc/customizer.php:357
+#: revolution/inc/customizer.php:372
+msgid "Sidebar On Right"
+msgstr ""
+
+#: revolution/inc/customizer.php:245
+#: revolution/inc/customizer.php:260
+#: revolution/inc/customizer.php:343
+#: revolution/inc/customizer.php:358
+#: revolution/inc/customizer.php:373
+msgid "Sidebar On Left"
+msgstr ""
+
+#: revolution/inc/customizer.php:256
+msgid "Single Product Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:271
+msgid "Woocommerce Product Sale Positions"
+msgstr ""
+
+#: revolution/inc/customizer.php:275
+#: revolution/inc/customizer.php:476
+#: revolution/inc/customizer.php:1241
+msgid "Right"
+msgstr ""
+
+#: revolution/inc/customizer.php:276
+#: revolution/inc/customizer.php:474
+#: revolution/inc/customizer.php:1242
+msgid "Left"
+msgstr ""
+
+#: revolution/inc/customizer.php:277
+#: revolution/inc/customizer.php:475
+#: revolution/inc/customizer.php:1243
+msgid "Center"
+msgstr ""
+
+#: revolution/inc/customizer.php:286
+msgid "Additional Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:304
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: revolution/inc/customizer.php:305
+msgid "Checked to enable sticky header"
+msgstr ""
+
+#: revolution/inc/customizer.php:325
+msgid "Enable Preloader"
+msgstr ""
+
+#: revolution/inc/customizer.php:326
+msgid "Checked to show preloader"
+msgstr ""
+
+#: revolution/inc/customizer.php:339
+msgid "Posts Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:354
+msgid "Single Post Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:369
+msgid "Single Page Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:382
+msgid "Blog Page Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:393
+msgid "Enable Blog Post Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:394
+msgid "Checked To Show Blog Post Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:406
+msgid "Enable Blog Post Meta"
+msgstr ""
+
+#: revolution/inc/customizer.php:407
+msgid "Checked To Show Blog Post Meta Feilds"
+msgstr ""
+
+#: revolution/inc/customizer.php:419
+msgid "Enable Blog Post Tags"
+msgstr ""
+
+#: revolution/inc/customizer.php:420
+msgid "Checked To Show Blog Post Tags"
+msgstr ""
+
+#: revolution/inc/customizer.php:432
+msgid "Enable Blog Post Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:433
+msgid "Checked To Show Blog Post Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:445
+msgid "Enable Blog Post Content"
+msgstr ""
+
+#: revolution/inc/customizer.php:446
+msgid "Checked To Show Blog Post Content"
+msgstr ""
+
+#: revolution/inc/customizer.php:458
+msgid "Enable Blog Post Read More Button"
+msgstr ""
+
+#: revolution/inc/customizer.php:459
+msgid "Checked To Show Blog Post Read More Button"
+msgstr ""
+
+#: revolution/inc/customizer.php:471
+msgid "Blog Post Content Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:494
+msgid "Excerpt Limit"
+msgstr ""
+
+#: revolution/inc/customizer.php:519
+#: revolution/inc/customizer.php:994
+#: revolution/inc/customizer.php:1117
+msgid "Edit Button Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:530
+msgid "Single Post Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:541
+msgid "Enable Single Post Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:542
+msgid "Checked To Show Single Blog Post Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:554
+msgid "Enable Single Post Meta"
+msgstr ""
+
+#: revolution/inc/customizer.php:555
+msgid "Checked To Show Single Blog Post Meta Feilds"
+msgstr ""
+
+#: revolution/inc/customizer.php:567
+msgid "Enable Single Post Tags"
+msgstr ""
+
+#: revolution/inc/customizer.php:568
+msgid "Checked To Show Single Blog Post Tags"
+msgstr ""
+
+#: revolution/inc/customizer.php:580
+msgid "Enable Single Post Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:581
+msgid "Checked To Show Single Post Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:593
+msgid "Enable Single Post Content"
+msgstr ""
+
+#: revolution/inc/customizer.php:594
+msgid "Checked To Show Single Blog Post Content"
+msgstr ""
+
+#: revolution/inc/customizer.php:613
+msgid "Enable Related Post"
+msgstr ""
+
+#: revolution/inc/customizer.php:614
+msgid "Checked to show Related Post"
+msgstr ""
+
+#: revolution/inc/customizer.php:634
+msgid "Edit Related Post Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:654
+msgid "Related Post Count"
+msgstr ""
+
+#: revolution/inc/customizer.php:674
+msgid "Global Color Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:690
+msgid "Primary Color"
+msgstr ""
+
+#: revolution/inc/customizer.php:705
+msgid "Main Header Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:721
+msgid "Enable Topbar"
+msgstr ""
+
+#: revolution/inc/customizer.php:722
+msgid "Checked to show the Topbar"
+msgstr ""
+
+#: revolution/inc/customizer.php:741
+msgid "Edit Facebook Link"
+msgstr ""
+
+#: revolution/inc/customizer.php:760
+msgid "Edit Twitter Link"
+msgstr ""
+
+#: revolution/inc/customizer.php:779
+msgid "Edit Google Link"
+msgstr ""
+
+#: revolution/inc/customizer.php:797
+msgid "Edit Youtube Link"
+msgstr ""
+
+#: revolution/inc/customizer.php:817
+msgid "Edit Email Address "
+msgstr ""
+
+#: revolution/inc/customizer.php:837
+msgid "Edit Location "
+msgstr ""
+
+#: revolution/inc/customizer.php:856
+msgid "Edit Phone Number "
+msgstr ""
+
+#: revolution/inc/customizer.php:870
+msgid "Main Slider Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:888
+msgid "Enable Main Slider"
+msgstr ""
+
+#: revolution/inc/customizer.php:889
+msgid "Checked to show the main slider"
+msgstr ""
+
+#: revolution/inc/customizer.php:912
+msgid "Edit Slider Image "
+msgstr ""
+
+#: revolution/inc/customizer.php:913
+msgid "Edit the slider image."
+msgstr ""
+
+#: revolution/inc/customizer.php:932
+msgid "Edit Slider Top Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:933
+msgid "Edit the slider Top text."
+msgstr ""
+
+#: revolution/inc/customizer.php:953
+msgid "Edit Heading Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:954
+msgid "Edit the slider heading text."
+msgstr ""
+
+#: revolution/inc/customizer.php:974
+msgid "Edit Content Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:975
+msgid "Edit the slider content text."
+msgstr ""
+
+#: revolution/inc/customizer.php:995
+msgid "Edit the slider button text."
+msgstr ""
+
+#: revolution/inc/customizer.php:1015
+msgid "Edit Button URL "
+msgstr ""
+
+#: revolution/inc/customizer.php:1016
+msgid "Edit the slider button url."
+msgstr ""
+
+#: revolution/inc/customizer.php:1032
+msgid "Product Category Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:1050
+msgid "Enable Product Category Section"
+msgstr ""
+
+#: revolution/inc/customizer.php:1051
+msgid "Checked to show the product section"
+msgstr ""
+
+#: revolution/inc/customizer.php:1071
+msgid "Edit Section Heading"
+msgstr ""
+
+#: revolution/inc/customizer.php:1072
+msgid "Edit product section heading"
+msgstr ""
+
+#: revolution/inc/customizer.php:1100
+msgid "Select Product Category"
+msgstr ""
+
+#: revolution/inc/customizer.php:1136
+msgid "Edit Button Link "
+msgstr ""
+
+#: revolution/inc/customizer.php:1150
+msgid "Footer Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:1167
+msgid "Enable Footer"
+msgstr ""
+
+#: revolution/inc/customizer.php:1168
+msgid "Checked to show Footer"
+msgstr ""
+
+#: revolution/inc/customizer.php:1182
+msgid "Footer Background Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:1202
+msgid "Enable Footer Social Menu"
+msgstr ""
+
+#: revolution/inc/customizer.php:1203
+msgid "Checked to show the footer social menu. Go to Dashboard >> Appearance >> Menus >> Create New Menu >> Add Custom Link >> Add Social Menu >> Checked Social Menu >> Save Menu."
+msgstr ""
+
+#: revolution/inc/customizer.php:1223
+msgid "Enable Go To Top"
+msgstr ""
+
+#: revolution/inc/customizer.php:1224
+msgid "Checked to enable Go To Top option."
+msgstr ""
+
+#: revolution/inc/customizer.php:1239
+msgid "Go To Top Positions"
+msgstr ""
+
+#: revolution/inc/customizer.php:1261
+msgid "Edit Copyright Text"
+msgstr ""
+
+#: revolution/inc/customizer.php:1262
+msgid "Edit the Footer Copyright Section."
+msgstr ""
+
+#: revolution/inc/customizer.php:1366
+msgid "Digital Magazine Pro"
+msgstr ""
+
+#: revolution/inc/customizer.php:1367
+msgid "Buy Pro"
+msgstr ""
+
+#: revolution/inc/customizer.php:1374
+msgid "Lite Documentation"
+msgstr ""
+
+#: revolution/inc/customizer.php:1375
+msgid "Instruction"
+msgstr ""
+
+#: revolution/inc/customizer.php:1381
+msgid "Pro Theme Demo"
+msgstr ""
+
+#: revolution/inc/customizer.php:1382
+msgid "Live Preview"
+msgstr ""
+
+#. translators: %s: post date.
+#: revolution/inc/template-tags.php:26
+msgid "<strong>Posted on:</strong> %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: revolution/inc/template-tags.php:38
+msgctxt "post author"
+msgid "- %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: revolution/inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: revolution/inc/template-tags.php:55
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: revolution/inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: revolution/inc/template-tags.php:62
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: revolution/inc/template-tags.php:72
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: revolution/inc/template-tags.php:89
+#: revolution/template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: revolution/template-parts/content-audio.php:103
+#: revolution/template-parts/content-audio.php:115
+#: revolution/template-parts/content-gallery.php:87
+#: revolution/template-parts/content-gallery.php:99
+#: revolution/template-parts/content-image.php:108
+#: revolution/template-parts/content-image.php:120
+#: revolution/template-parts/content-search.php:74
+#: revolution/template-parts/content-search.php:86
+#: revolution/template-parts/content-video.php:104
+#: revolution/template-parts/content-video.php:116
+#: revolution/template-parts/content.php:74
+#: revolution/template-parts/content.php:86
+msgid "Post Tags: "
+msgstr ""
+
+#: revolution/template-parts/content-audio.php:177
+#: revolution/template-parts/content-audio.php:180
+#: revolution/template-parts/content-gallery.php:161
+#: revolution/template-parts/content-gallery.php:164
+#: revolution/template-parts/content-image.php:148
+#: revolution/template-parts/content-image.php:151
+#: revolution/template-parts/content-search.php:148
+#: revolution/template-parts/content-search.php:151
+#: revolution/template-parts/content-video.php:178
+#: revolution/template-parts/content-video.php:181
+#: revolution/template-parts/content.php:148
+#: revolution/template-parts/content.php:151
+msgid "Continue Reading...."
+msgstr ""
+
+#: revolution/template-parts/content-audio.php:189
+#: revolution/template-parts/content-gallery.php:173
+#: revolution/template-parts/content-image.php:160
+#: revolution/template-parts/content-page.php:23
+#: revolution/template-parts/content-search.php:160
+#: revolution/template-parts/content-video.php:190
+#: revolution/template-parts/content.php:160
+msgid "Pages:"
+msgstr ""
+
+#: revolution/template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: revolution/template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: revolution/template-parts/content-none.php:35
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: revolution/template-parts/content-none.php:42
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:27
+#: search.php:67
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:28
+#: single.php:68
+msgid "Previous:"
+msgstr ""
+
+#: single.php:29
+#: single.php:69
+msgid "Next:"
+msgstr ""
